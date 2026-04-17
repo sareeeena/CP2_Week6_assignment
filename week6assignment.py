@@ -72,9 +72,3 @@ print(f"{s2.name}: GPA = {s2.gpa()}, Best = {s2.best_course()}")
 print(f"Valid ID '2601001': {Student.is_valid_id('2601001')}")
 print(f"Valid ID '26A': {Student.is_valid_id('26A')}")
 print(f"Total students: {Student.total_students()}")
-
-
-        
-
-    
-    
